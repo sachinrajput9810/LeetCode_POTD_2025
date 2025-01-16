@@ -1,6 +1,6 @@
 package Leetcode_Jan;
 
-public class day3_waysToSplitArray {
+public class day_3_waysToSplitArray {
     public int waysToSplitArray(int[] nums) {
         long totalSum = 0 ;
         int n = nums.length ;

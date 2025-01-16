@@ -1,6 +1,6 @@
 package Leetcode_Jan;
 
-public class day1_maximumScore {
+public class day_1_maximumScore {
     public int maxScore(String s) {
         int n = s.length() ;
         int one = 0 ;
